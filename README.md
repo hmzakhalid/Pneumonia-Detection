@@ -22,7 +22,7 @@ of layers. Each block consists of a
 
 *Test accuracy: 82%*
 
-## Contributors
+## Collaborators
 - [Hamza Khalid](https://github.com/hmzakhalid)
 - [Hamza Iftikhar](https://github.com/Ham-Ifti)
 - Syed Abdullah Nasir
